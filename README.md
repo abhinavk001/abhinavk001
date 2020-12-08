@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning machine learning.
 - 🤔 I’m looking for help with tensorflow.
 - 💬 Ask me about python, C/C++, web-dev
-- 📫 How to reach me: twitter.com/abhinavaires
+- 📫 How to reach me:  <a href="twitter.com/abhinavaires"><img src="http://i.imgur.com/tXSoThF.png" alt="foo" title="twitter" /></a>
 - 😄 Pronouns: he/him
