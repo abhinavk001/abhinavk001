@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with tensorflow.
 - 💬 Ask me about python, C/C++, web-dev
 - 😄 Pronouns: he/him
-- 📫 How to reach me:  <a href="https://twitter.com/abhinavaires"><img src="http://i.imgur.com/wWzX9uB.png" alt="foo" title="twitter" /></a>
-- Under construction: <a href="http://yakshas.herokuapp.com/">Blog</a>
+- 📫 How to reach me:  <a href="https://twitter.com/abhinavaires"><img src="https://img.icons8.com/carbon-copy/344/twitter--v1.png" alt="foo" title="twitter" /></a>
+- 📌Check it out👉 <a href="http://yakshas.herokuapp.com/">Blog</a>
