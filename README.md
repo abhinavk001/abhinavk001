@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on a laravel project.
 - 🌱 I’m currently learning machine learning.
+- 💻 Currently hacking at MLH
 - 🤔 I’m looking for help with tensorflow.
 - 💬 Ask me about python, C/C++, web-dev
 - 😄 Pronouns: he/him
