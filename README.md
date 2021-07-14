@@ -3,8 +3,8 @@
 #### I'm Abhinav K, an undergrad student🎓 pursuing Computer Science and Engineering 💻.
 
 
-- 🛠 Currently building :- <a href="https://abhinavk001.github.io/portfolio-web/">My Website</a>
-- 🌱 I’m currently learning Reactjs & Pytorch.
+- 🛠 Currently building :- NULL
+- 🌱 I’m currently learning PHP.
 - 🤔 I’m looking for help with Machine Learning.
 - 💬 Ask me about python, C/C++, web-dev
 - 😄 Pronouns: he/him
