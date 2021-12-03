@@ -1,7 +1,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="" alt="foo" title="twitter" />
 
-#### I'm Abhinav K, an undergrad student🎓 pursuing Computer Science and Engineering 💻 aspiring to be a backend developer.
+<img src="./img/intro.png" width="1000px" alt="intro" title="intro" />
+
+#### An undergrad student🎓 pursuing Computer Science and Engineering 💻 aspiring to be a backend developer🌐 .
 
 
 - 🌱 I’m currently learning Javascript.
