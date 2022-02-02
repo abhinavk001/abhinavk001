@@ -9,7 +9,9 @@
 - 🤔 I’m looking for help with design and CSS.
 - 💬 Ask me about python, C/C++, web-dev
 - 😄 Pronouns: he/him
-- 📫 How to reach me:  <a href="https://twitter.com/abhinavaires"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20px" alt="foo" title="twitter" /></a>
+- 🗣️ How to reach me:  <a href="https://twitter.com/abhinavaires"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20px" alt="foo" title="twitter" /></a>
+- 📫 Mail me @ : mail@abhinavk.me
+- 🔗 Website: https://abhinavk.me
 - 📌Check it out👉 <a href="http://yakshas.herokuapp.com/">Blog</a><hr>
 
 
@@ -17,8 +19,10 @@
 I'm working on a cool twitter bot that helps share tweet in a style 😃.
 
 #### Stacks being used for this project :
-- Cloudflare workers: Backend is being developed as a serverless app on cloudflare using JavaScript.
-- ReactJS: Obviously for the frontend 😁.<hr>
+- ReactJS: Obviously for the frontend 😁. Also utilizes redux for state management.
+- Netlify functions: Serverless backend for the app.
+- MongoDB: Document based NoSql database.
+- TwitterAPI: The core component of this project. Its used to fetch tweets from twitter.
 
 
 ## My Github stats 💻️ :
