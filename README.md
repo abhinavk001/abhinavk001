@@ -14,15 +14,5 @@
 - 🔗 Website: https://abhinavk.info
 
 
-### What I'm currently doing 🧑‍💻 :
-I'm working on a cool twitter bot that helps share tweet in a style 😃.
-
-#### Stacks being used for this project :
-- ReactJS: Obviously for the frontend 😁. Also utilizes redux for state management.
-- Netlify functions: Serverless backend for the app.
-- MongoDB: Document based NoSql database.
-- TwitterAPI: The core component of this project. Its used to fetch tweets from twitter.
-
-
 ## Language stats 🌏️ :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk001&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
