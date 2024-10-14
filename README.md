@@ -2,12 +2,10 @@
 
 <img src="./img/intro.png" width="1000px" alt="intro" title="intro" />
 
-#### An undergrad student🎓 pursuing Computer Science and Engineering 💻 aspiring to be a backend developer🌐 .
+####  I'm a backend developer🌐 with 1 year of experience developing applications using Java.
 
 
-- 🌱 I’m currently learning Javascript.
-- 🤔 I’m looking for help with design and CSS.
-- 💬 Ask me about python, C/C++, web-dev
+- 💬 Ask me about Python, Java, Docker and Jenkins
 - 😄 Pronouns: he/him
 - 🗣️ How to reach me:  <a href="https://twitter.com/abhinavaires"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20px" alt="foo" title="twitter" /></a>
 - 📫 Mail me @ : mail@abhinavk.info
