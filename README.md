@@ -13,4 +13,4 @@
 
 
 ## Language stats 🌏️ :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk001&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=abhinavk001)](https://github.com/anuraghazra/github-readme-stats)
