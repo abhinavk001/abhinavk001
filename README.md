@@ -8,8 +8,8 @@
 - 💬 Ask me about Python, Java, Docker and Jenkins
 - 😄 Pronouns: he/him
 - 🗣️ How to reach me:  <a href="https://twitter.com/abhinavaires"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20px" alt="foo" title="twitter" /></a>
-- 📫 Mail me @ : mail@abhinavk.info
-- 🔗 Website: https://abhinavk.info
+- 📫 Mail me @ : abhinavk5544@gmail.com
+- 🔗 Website: https://itsabhinav.com
 
 
 ## Language stats 🌏️ :
