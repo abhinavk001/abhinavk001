@@ -2,7 +2,7 @@
 
 <img src="./img/intro.png" width="1000px" alt="intro" title="intro" />
 
-####  I'm a backend developer🌐 with 3 years of experience developing applications using Java and managing cloud infrastructure.
+####  I'm a software developer🌐 with 3 years of experience developing backend applications and managing cloud infrastructure.
 
 
 - 💬 Ask me about Python, Java, Docker and Jenkins
